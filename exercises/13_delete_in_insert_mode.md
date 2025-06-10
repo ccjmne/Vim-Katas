@@ -11,5 +11,5 @@ Type the sentence again and practice these:
 `<C-u>` - delete back to the start of the line
 
 ```text
-This is again
+This is again some text.
 ```

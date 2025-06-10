@@ -4,7 +4,7 @@ Here is an unfinished excerp of text:
 
 ```text
 Practical Vim, by Drew Neil
-Read Drew Neil's
+Read Drew Neil's Practical Vim.
 ```
 
 Copy and paste the page title here:

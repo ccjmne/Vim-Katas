@@ -3,7 +3,7 @@
 Example text:
 
 ```text
-Typing in insert mode extends the line. But in replace mode
+Typing in insert mode extends the line, but in replace mode
 the line length does not change.
 ```
 

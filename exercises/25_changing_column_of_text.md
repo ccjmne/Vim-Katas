@@ -3,9 +3,9 @@
 Suppose there is this text:
 
 ```css
-li.one   a{ background-image: url('/images/sprite.png'); }
-li.two   a{ background-image: url('/images/sprite.png'); }
-li.three a{ background-image: url('/images/sprite.png'); }
+li.one   a{ background-image: url('/components/sprite.png'); }
+li.two   a{ background-image: url('/components/sprite.png'); }
+li.three a{ background-image: url('/components/sprite.png'); }
 ```
 
 Change 'images' to 'components' to look like this:

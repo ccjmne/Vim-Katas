@@ -8,9 +8,9 @@
 
 ```
 first name, last name, email
-john,smith,john@example.com
-drew,neil,drew@vimcast.org
 jane,doe,jane@example.com
+drew,neil,drew@vimcast.org
+john,smith,john@example.com
 ```
 
 Visual highlight the lines to be sorted

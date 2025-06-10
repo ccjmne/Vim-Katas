@@ -3,7 +3,7 @@
 Change this text:
 
 ```javascript
-var foo = "method("+argument1+","+argument2+")";
+var foo = "method(" + argument1 + "," + argument2 + ")";
 ```
 
 to this:
